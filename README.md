@@ -56,7 +56,7 @@ O notebook contempla as seguintes etapas:
 - Discussão dos resultados
 - Conclusão
 
-## Link Aprensentação
+## Link Apresentação
 
 https://vimeo.com/1205970634
 
