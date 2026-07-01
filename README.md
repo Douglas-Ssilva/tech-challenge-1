@@ -56,6 +56,10 @@ O notebook contempla as seguintes etapas:
 - Discussão dos resultados
 - Conclusão
 
+## Link Aprensentação
+
+https://vimeo.com/1205970634
+
 ## Autor
 
 **Douglas Barros**
